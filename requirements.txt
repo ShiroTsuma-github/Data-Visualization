@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+seaborn
+statsmodels
+plotly
+bokeh
+ipywidgets
+jinja2
